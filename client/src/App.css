@@ -1,0 +1,18 @@
+body {
+    background-color: #F8F4E1
+}
+
+.formcontainer {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.ipitem {
+    margin-left: 200px;
+}
+
+
+.form-control {
+    margin-left: 20px;
+    margin-top: 10px ;
+}
